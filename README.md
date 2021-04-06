@@ -5,6 +5,8 @@ is an application to turn on your motorbike using voice commands.
 ## Requirement
 
 - Arduino Uno R3
+  <img src="https://s2.bukalapak.com/img/2246747261/large/Arduino_UNO_R3___ATMega_328.jpg" alt="arduino-r3" width="100" height ="100">
+  
 - Bluetooth Module HC-05 or HC-06
 - 4 Channel Relay 5V 220V AC Module
 - Jumper cable male to female
